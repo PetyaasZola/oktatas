@@ -1,2 +1,0 @@
-# oktatas
-Felnőt oktatás
